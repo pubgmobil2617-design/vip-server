@@ -1,0 +1,12 @@
+{
+  "allowed": {
+    "ab23f99e1a12f65cd39a12f9bceabff5": {
+      "user": "Ajai Boy",
+      "expires": "2025-12-31"
+    },
+    "d4b73e11c9e64ef394bc33df05e99222": {
+      "user": "TestUser",
+      "expires": "2025-11-15"
+    }
+  }
+}
