@@ -1,16 +1,16 @@
 [
   {
-    "key": "IGNITEXVIP-NICO-IN-BGMI4.5-6Q-ACTIVE-dQBrYD-IGNITEXBP",
+    "key": "IGNITEXVIP-NICO-IN-BGMI4.5-6Q-BANNED-dQBrYD-IGNITEXBP",
     "seller": "NICO",
     "user": "IGNITEXBP",
     "validity": "BGMI4.5",
-    "status": "ACTIVE"
+    "status": "BANNED"
   },
   {
-    "key": "IGNITEXVIP-NICO-WA-BGMI4.5-TM-PAID-AtxM80-AJAYBHOIR",
+    "key": "IGNITEXVIP-NICO-WA-BGMI4.5-TM-ACTIVE-AtxM80-AJAYBHOIR",
     "seller": "NICO",
     "user": "AJAYBHOIR",
     "validity": "BGMI4.5",
-    "status": "PAID"
+    "status": "ACTIVE"
   }
 ]
