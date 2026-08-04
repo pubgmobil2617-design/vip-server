@@ -1,19 +1,5 @@
 [
   {
-    "key": "IGNITEXVIP-ADMIN-QE-BGMI4.5-R1-TEST-uwsQhW-GRANITE",
-    "seller": "ADMIN",
-    "user": "GRANITE",
-    "validity": "BGMI4.5",
-    "status": "ACTIVE"
-  },
-  {
-    "key": "IGNITEXVIP-ADMIN-GV-BGMI4.5-U4-ACTIVE-DUkFSk-AJAYBHOIR",
-    "seller": "ADMIN",
-    "user": "AJAYBHOIR",
-    "validity": "BGMI4.5",
-    "status": "ACTIVE"
-  },
-  {
     "key": "IGNITEXVIP-NICO-UE-BGMI4.5-KY-TEST-0xDPCf-2",
     "user": "2",
     "status": "ACTIVE"
