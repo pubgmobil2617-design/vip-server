@@ -1,7 +1,5 @@
-[
-  {
-    "key": "IGNITEXVIP-NICO-PL-BGMI4.5-0G-TEST-CXCPKx-AJAYBHOIR",
-    "user": "AJAYBHOIR",
-    "status": "ACTIVE"
-  }
-]
+{
+  "allowed": [
+    null
+  ]
+}
